@@ -1,0 +1,17 @@
+table th{
+  background-color: #4caf50;
+  padding: 0.5rem;
+  border-color: #4caf50;
+}
+table td{
+ border-color:#4caf50;
+  padding: 0.5rem;
+  color: teal;
+}
+table button{
+  width: 100%;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+}

@@ -1,0 +1,36 @@
+.body-text{
+  font-family: "Montserrat", sans-serif;
+  
+  align-items: center;
+}
+.options{
+  display: flex;
+  justify-content: space-between;
+}
+.sidebar{
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.sidebar a{
+  text-decoration: none;
+  color: #fff;
+}
+.sidebar a h2{
+  font-size: 1rem;
+}
+.sidebar div{
+  padding: 1rem 7rem 1rem 1rem;
+  background-color: teal;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  
+  align-items: center;
+}
+.question{
+  color:#fff
+}
+
+
+
+

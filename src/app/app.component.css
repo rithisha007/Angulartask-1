@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
+.footer{
+  width: 100%;
+  height: auto;
+}
+.footer footer{
+  background-color: teal;
+  color: #fff;
+  text-align: center;
+  padding: 0.5rem 0 0.5rem 0;
+}
+.footer footer p{
+  font-weight: 700;
+}
